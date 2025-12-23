@@ -25,19 +25,30 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
 **To measure IL**
+<img width="339" height="110" alt="image" src="https://github.com/user-attachments/assets/d3dad785-08f5-4936-8e88-3f310103a0ee" />
+
 
 
 **To measure RTh or RN**
+<img width="337" height="120" alt="image" src="https://github.com/user-attachments/assets/893669f9-26bb-45c6-885b-9ad2de38b021" />
+
 
 
 
 **To measure IN or Isc**
+<img width="404" height="128" alt="image" src="https://github.com/user-attachments/assets/050b9723-ee84-49f8-9831-fc3c29b0d14e" />
+
+
 
  
 **Thevenin’s equivalent circuit**
+<img width="418" height="147" alt="image" src="https://github.com/user-attachments/assets/8582bc0f-b431-44b4-8bad-465eda2d22ae" />
+
 
 
 **Norton’s equivalent circuit**
+<img width="463" height="145" alt="image" src="https://github.com/user-attachments/assets/9edbae50-89b4-412a-a454-77aceb4605b5" />
+
 
 
 **PROCEDURE:**
@@ -72,29 +83,43 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **TABULAR COLUMN: 1**
 To measure I L
+<img width="275" height="114" alt="image" src="https://github.com/user-attachments/assets/924d6e78-3798-4e3e-88cb-50bdf5266c85" />
+
 
 Vi (volts)	IL (amps)
 
 **TABULAR COLUMN:2**
 
 To measure RTh or RN
+<img width="286" height="111" alt="image" src="https://github.com/user-attachments/assets/0f81c3ea-92be-45a3-9e28-c591af5f7c0d" />
+
 
 Vi (volts)	RTh (Ω)
+
+
 
 
 **TABULAR COLUMN:3**
 
 To measure IN or Isc
+<img width="257" height="139" alt="image" src="https://github.com/user-attachments/assets/0a5e9ed9-14c2-4adc-9f65-af9a58604733" />
+
 
 Vi (volts)	IN (amps)
 	
 **MODEL CALCULATION:**
 
 Practical value of IL (from tabulation 1) =2.3mA
+<img width="395" height="248" alt="image" src="https://github.com/user-attachments/assets/19dca585-567d-49ec-b00a-1ebbbd5fd9c0" />
+
+
+
 
 **Verification of Norton’s theorem**
 
 IL = IN * RN / ( RN+ RL ) = 2.43mA
+<img width="270" height="373" alt="image" src="https://github.com/user-attachments/assets/96f757f2-385d-430c-97e7-caec7d629a09" />
+
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
